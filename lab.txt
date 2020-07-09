@@ -1,0 +1,24 @@
+{
+"donald_lab" : "IT-Block, 1st Floor",
+"dk_lab" : "IT-Block, 1st Floor",
+"donald_kunth_lab" : "IT-Block, 1st Floor",
+"dk" : "IT-Block, 1st Floor"
+}
+{
+"dijkstra_lab" : "IT-Block, 1st Floor",
+"dj_lab" : "IT-Block, 1st Floor",
+"dijkstra" : "IT-Block, 1st Floor",
+"dijkstras" : "IT-Block, 1st Floor",
+"dijkstra's" : "IT-Block, 1st Floor",
+"dijkstras_lab" : "IT-Block, 1st Floor",
+"dijkstra's_lab" : "IT-Block, 1st Floor"
+}
+{
+"allan_kay" : "IT-Block, Ground Floor",
+"ak_lab" : "IT-Block, Ground Floor",
+"allan_kay_lab" : "IT-Block, Ground Floor",
+"alan_kay" : "IT-Block, Ground Floor",
+"ak" : "IT-Block, Ground Floor"
+
+}
+
